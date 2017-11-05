@@ -1,5 +1,5 @@
 (Customized) Solarized Dark theme for Hyper
----
+===
 
 This is a config file for the [Solarized Dark](http://ethanschoonover.com/solarized) theme for [Hyper.app](https://hyper.is)
 
