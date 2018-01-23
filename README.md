@@ -1,6 +1,8 @@
 (Customized) Solarized Dark theme for Hyper
 ===
 
+![Screenshot](screenshot.png)
+
 This is a config file for the [Solarized Dark](http://ethanschoonover.com/solarized) theme for [Hyper.app](https://hyper.is)
 
 This is a customized version that slightly changed the hex-code for the green color.
@@ -22,8 +24,8 @@ $ git clone https://github.com/rathesDot/hyper-solarized-dark ~/.hyper_plugins/l
 Next add the plugin to the localPlugin array of `~/.hyper.js` configuration file.
 
 ```js
-localPlugins: [  
-  'hyper-solarized-dark'  
+localPlugins: [
+  'hyper-solarized-dark'
 ],
 ```
 
